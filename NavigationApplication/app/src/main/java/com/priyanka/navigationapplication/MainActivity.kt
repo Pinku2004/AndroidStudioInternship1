@@ -53,7 +53,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-/*
+
 @Composable
 fun CounterScreen(){
     var count: Int by remember {
@@ -86,7 +86,7 @@ fun CounterScreen(){
         )
     }
 }
-*/
+
 @Composable
 fun AppNavigation(){
     val navController = rememberNavController()
@@ -105,7 +105,7 @@ fun AppNavigation(){
     }
 }
 
-/*
+
 @Composable
 fun Screen1(navController: NavHostController) {
     Column {
@@ -170,7 +170,7 @@ fun Screen4(navController: NavHostController,data:String) {
         }
     }
 }
-*/
+
 @Composable
 fun Screen5(navController: NavHostController) {
     val itemsList: List<String> = List(70){"items = $it"}
