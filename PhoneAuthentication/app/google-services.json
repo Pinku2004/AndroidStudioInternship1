@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881911366891",
+    "project_id": "phoneauth-d0719",
+    "storage_bucket": "phoneauth-d0719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881911366891:android:a43986cc1e1f193d2baaae",
+        "android_client_info": {
+          "package_name": "com.priyanka.phoneauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBHdjnYwYUGlUMCpI4-mQhPXEXfxBhtSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
