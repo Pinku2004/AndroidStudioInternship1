@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282501603446",
+    "project_id": "firestorefirebase-6d19e",
+    "storage_bucket": "firestorefirebase-6d19e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282501603446:android:3203a596c0c69416fa7f57",
+        "android_client_info": {
+          "package_name": "com.priyanka.firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB92IJs-_0Zdtsk0ixtm1HP32k8B98T8f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
